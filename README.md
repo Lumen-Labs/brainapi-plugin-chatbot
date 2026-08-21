@@ -145,7 +145,7 @@ Pushes to `main` publish this package to the BrainAPI registry via GitHub Action
 
 ## License
 
-Business Source License 1.1. See [LICENSE](LICENSE).
+Apache License, Version 2.0. See [LICENSE](LICENSE).
 
 ## Related
 
