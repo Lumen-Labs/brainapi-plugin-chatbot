@@ -1,0 +1,10 @@
+name: chatbot
+version: "1.0.0"
+entry_point: main
+description: Out of the box chatbot that works with LLM providers, can work with chatbot-memory.
+author: Christian Nonis
+brainapi_version: ">=2.13.0"
+tags:
+  - chatbot
+priority: 100
+pip_dependencies: []
